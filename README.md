@@ -4,7 +4,7 @@ Apprentissage du HTML/CSS : Création d'un site de voyage
 
 ![](images/booki.png)
 
-##Spécifications fonctionnelles
+## Spécifications fonctionnelles
 
 ● Les usagers pourront rechercher des hébergements dans la ville de leur choix. Le champ de recherche est un champ de saisie, le texte doit donc pouvoir être édité par l’utilisateur. Il faut englober ce champ dans un formulaire pour que ce dernier soit valide auprès du W3C. La partie recherche ne doit pas être fonctionnelle.
 
@@ -14,7 +14,7 @@ Apprentissage du HTML/CSS : Création d'un site de voyage
 
 ● Les textes “Hébergements” et “Activités”, situés dans l’en-tête, sont des liens. Ils doivent mener respectivement vers la section “Hébergements à Marseille” et “Activités à Marseille”.
 
-##Spécifications techniques
+## Spécifications techniques
 
 ● Deux maquettes ont été réalisées : l’une desktop et l’autre mobile. Le site devra être également adapté aux formats tablette. Pour les tablettes, nous sommes libres de faire les adaptations nécessaires. Il est important qu’aucun élément ne soit coupé, et que le texte ait une taille suffisante.
 
