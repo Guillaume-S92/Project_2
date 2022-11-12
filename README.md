@@ -1,6 +1,6 @@
 # Transformez une maquette en site web avec HTML & CSS
 
-Apprentissage du HTML/CSS pour un site de voyage  
+Apprentissage du HTML/CSS : Création d'un site de voyage
 
 Spécifité du projet:
 
