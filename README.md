@@ -12,7 +12,7 @@ Aucun autre langage ne doit être utilisé (comme JavaScript, par exemple).
 * Aucun framework CSS (type BootStrap ou Tailwind CSS) ou préprocesseur CSS (type Sass
 ou Less) ne doit être utilisé.
 Aucun autre langage ne doit être utilisé (comme JavaScript, par exemple).
-* Utilisation de flexbox
+* Utilisation de flexbox et seulement des px (pas de rem et d'em)
 * La police du site est Raleway
 * Les couleurs de la charte sont le bleu (#0065FC), une version plus claire de ce bleu
 (#DEEBFF) et le gris pour le fond (#F2F2F2).
