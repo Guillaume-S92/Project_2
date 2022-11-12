@@ -13,4 +13,7 @@ Aucun autre langage ne doit être utilisé (comme JavaScript, par exemple).
 ou Less) ne doit être utilisé.
 Aucun autre langage ne doit être utilisé (comme JavaScript, par exemple).
 * Utilisation de flexbox
+* La police du site est Raleway
+* Les couleurs de la charte sont le bleu (#0065FC), une version plus claire de ce bleu
+(#DEEBFF) et le gris pour le fond (#F2F2F2).
  
