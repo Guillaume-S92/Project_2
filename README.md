@@ -2,7 +2,7 @@
 
 Apprentissage du HTML/CSS : Création d'un site de voyage
 
-![](Images/Ohmyfood.png)
+![](images/bookie.png)
 
 Spécifité du projet:
 
