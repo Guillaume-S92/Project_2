@@ -2,6 +2,8 @@
 
 Apprentissage du HTML/CSS : Création d'un site de voyage
 
+![](Images/Ohmyfood.png)
+
 Spécifité du projet:
 
 * Trois maquettes doivent-être réalisées : desktop, tablette et mobile.  
