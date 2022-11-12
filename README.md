@@ -8,7 +8,5 @@ Spécifité du projet:
 * Aucun framework CSS (type BootStrap ou Tailwind CSS) ou préprocesseur CSS (type Sass
 ou Less) ne doit être utilisé.
 Aucun autre langage ne doit être utilisé (comme JavaScript, par exemple).  
-* Breakpoint:  >=992 px pour les écrans d’ordinateurs ;
- >=768 px pour les tablettes ;
- et tout ce qui est en dessous de 768 pour les téléphones portables.
+* Breakpoint:  >=992 px pour les écrans d’ordinateurs ;,>=768 px pour les tablettes ; et tout ce qui est en dessous de 768 pour les téléphones portables.
  
