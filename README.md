@@ -12,4 +12,5 @@ Aucun autre langage ne doit être utilisé (comme JavaScript, par exemple).
 * Aucun framework CSS (type BootStrap ou Tailwind CSS) ou préprocesseur CSS (type Sass
 ou Less) ne doit être utilisé.
 Aucun autre langage ne doit être utilisé (comme JavaScript, par exemple).
+* Utilisation de flexbox
  
