@@ -46,3 +46,4 @@ Apprentissage du HTML/CSS : Création d'un site de voyage
 
 ## Résultat
 
+Site consultable [ici](https://raw.githack.com/Guillaume-S92/Project_2/main/index.html)
