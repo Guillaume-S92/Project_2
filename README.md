@@ -44,8 +44,5 @@ Apprentissage du HTML/CSS : Création d'un site de voyage
 
 ● Il n’est pas nécessaire de versionner le code.
 
-## Compétences évaluées
+## Résultat
 
-    Intégrer du contenu conformément à une maquette
-
-    Implémenter une interface responsive
